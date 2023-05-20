@@ -1,0 +1,15 @@
+input to us:
+
+equations = [["a","b"],["b","c"]] 
+values = [2.0,3.0] 
+ 
+where 
+equations[i] = [Ai, Bi]
+values[i]
+
+Ai / Bi = values[i]
+
+queries = [["a","c"],["b","a"],["a","e"],["a","a"],["x","x"]]
+
+
+
